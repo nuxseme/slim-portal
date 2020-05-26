@@ -1,11 +1,10 @@
 # Slim Portal
 
-- [Get Started]()
-  * [README](1-Get-started/0-README.md)
-  * [Home](1-Get-started/1-home.md)
-  * [Installtion](1-Get-started/2-installtion.md)
-  * [Web Servers](1-Get-started/3-web-servers.md)
-  * [Deployment](1-Get-started/4-deployment.md)
+- Get Started
+  * [Home](1-get-started/1-home.md)
+  * [Installtion](1-get-started/2-installtion.md)
+  * [Web Servers](1-get-started/3-web-servers.md)
+  * [Deployment](1-get-started/4-deployment.md)
 - Concepts
   * [Application Life Cycle](2-concepts/1-application-life-cycle.md)
   * [Psr 7](2-concepts/2-psr-7.md)

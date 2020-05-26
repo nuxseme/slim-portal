@@ -30,13 +30,13 @@ $app->run();
 初次创建项目 
 
 ```bash
-$ composer create-project slim/slim-skeleton:dev-master [my-app-name]
+ composer create-project slim/slim-skeleton:dev-master [my-app-name]
 ```
 
 自建项目目录之后直接compose 引入
 
 ```bash
-$ composer  require  slim/slim
+ composer  require  slim/slim
 ```
 
 
