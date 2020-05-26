@@ -39,7 +39,8 @@
         "-donate",
         "sharing-plus",
         "anchor-navigation-ex",
-        "favicon"
+        "favicon",
+	"copy-code-button"
     ],
     "pluginsConfig": {
         "github": {
