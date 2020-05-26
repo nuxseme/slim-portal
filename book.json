@@ -13,7 +13,7 @@
     "unchanged": [],
     "sortedBy": "-",
     "disableTitleFormatting": false,
-    "sty:les": {
+    "styles": {
          
     },
     "structure": {
@@ -39,16 +39,16 @@
         "-donate",
         "sharing-plus",
         "anchor-navigation-ex",
-        "-favicon"
+        "favicon"
     ],
     "pluginsConfig": {
         "github": {
-            "url": "https://github.com/nuxseme"
+            "url": "https://github.com/nuxseme/slim-portal"
         },
         "github-buttons": {
             "buttons": [{
                 "user": "nuxseme",
-                "repo": "glory",
+                "repo": "slim-portal",
                 "type": "star",
                 "size": "small",
                 "count": true
@@ -88,12 +88,12 @@
             "showLevel": false
         },
         "favicon":{
-            "shortcut": "./source/images/favicon.jpg",
-            "bookmark": "./source/images/favicon.jpg",
-            "appleTouch": "./source/images/apple-touch-icon.jpg",
+            "shortcut": "./asssets/favicon.png",
+            "bookmark": "./asssets/favicon.png",
+            "appleTouch": "./asssets/favicon.png",
             "appleTouchMore": {
-                "120x120": "./source/images/apple-touch-icon.jpg",
-                "180x180": "./source/images/apple-touch-icon.jpg"
+                "120x120": "./asssets/favicon.png",
+                "180x180": "./asssets/favicon.png"
             }
         }
     }
