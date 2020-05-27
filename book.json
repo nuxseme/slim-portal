@@ -6,7 +6,7 @@
     "gitbook": "3.2.3",
     "outputfile": "SUMMARY.md",
     "catalog": "all",
-    "ignores": ["node_modules"],
+    "ignores": ["node_modules","_book"],
     "unchanged": [],
     "sortedBy": "-",
     "disableTitleFormatting": false,
@@ -86,16 +86,15 @@
         },
  	"fontsettings": {
             "theme": "night",
-            "family": "sans", 
-            "size": 4
+            "family": "sans" 
         },
         "favicon":{
-            "shortcut": "./asssets/favicon.png",
-            "bookmark": "./asssets/favicon.png",
-            "appleTouch": "./asssets/favicon.png",
+            "shortcut": "assets/favicon.png",
+            "bookmark": "assets/favicon.png",
+            "appleTouch": "assets/favicon.png",
             "appleTouchMore": {
-                "120x120": "./asssets/favicon.png",
-                "180x180": "./asssets/favicon.png"
+                "120x120": "assets/favicon.png",
+                "180x180": "assets/favicon.png"
             }
         }
     }
