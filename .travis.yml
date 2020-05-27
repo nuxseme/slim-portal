@@ -4,6 +4,7 @@ node_js: stable
 install:
   - npm install
   - npm install gitbook-cli -g
+  - npm install -g gitbook-summary
 
 notifications:
   email:
@@ -13,6 +14,8 @@ notifications:
 
 script:
   - gitbook -v
+  - gitbook install
+  - 
   - gitbook build
 
 after_script:
