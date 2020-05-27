@@ -11,7 +11,7 @@
     "sortedBy": "-",
     "disableTitleFormatting": false,
     "styles": {
-         
+	"website": "styles/website.css"         
     },
     "structure": {
         "readme": "README.md"
