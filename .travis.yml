@@ -30,4 +30,4 @@ branches:
     - master
 env:
  global:
-   - GH_REF: github.com/nuxseme/slim-portal-book.git
+   - GH_REF: github.com/nuxseme/slim-portal-gitbook.git
