@@ -88,6 +88,11 @@
         "anchor-navigation-ex": {
             "showLevel": false
         },
+ "fontsettings": {
+            "theme": "nigth",
+            "family": "sans", 
+            "size": 4
+        },
         "favicon":{
             "shortcut": "./asssets/favicon.png",
             "bookmark": "./asssets/favicon.png",
