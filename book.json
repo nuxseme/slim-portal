@@ -89,9 +89,9 @@
             "family": "sans" 
         },
         "favicon":{
-            "shortcut": "assets/favicon.png",
-            "bookmark": "assets/favicon.png",
-            "appleTouch": "assets/favicon.png",
+            "shortcut": "assets/favicon.ico",
+            "bookmark": "assets/favicon.ico",
+            "appleTouch": "assets/favicon.ico",
             "appleTouchMore": {
                 "120x120": "assets/favicon.png",
                 "180x180": "assets/favicon.png"
