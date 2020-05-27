@@ -84,7 +84,7 @@ Slim supports dependency injection so you have complete control of your external
 
 # 核心架构图示
 
-<img src="assets/middleware.png" style="zoom:50%;max-width:50%;" />
+<img src="assets/middleware.png" style="zoom:50%;max-width:50%;" width="50%" />
 
 # 总结
 
