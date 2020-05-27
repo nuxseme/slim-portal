@@ -4,9 +4,6 @@
     "description": "Slim",
     "language": "zh-hans",
     "gitbook": "3.2.3",
-    "theme-default": {
-        "showLevel": true
-    },
     "outputfile": "SUMMARY.md",
     "catalog": "all",
     "ignores": ["node_modules","_book"],
@@ -29,7 +26,6 @@
 	"-toggle-chapters",
 	"chapter-fold",
 	"expandable-chapters",
-	"theme-comscore",
         "-sharing",
         "splitter",
         "expandable-chapters-small",
@@ -88,8 +84,8 @@
         "anchor-navigation-ex": {
             "showLevel": false
         },
- "fontsettings": {
-            "theme": "nigth",
+ 	"fontsettings": {
+            "theme": "night",
             "family": "sans", 
             "size": 4
         },
