@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nuxseme/slim-portal.svg?branch=master)](https://travis-ci.org/nuxseme/slim-portal)
+
 # Introduction
 
 Silm 是一个php轻框架，旨在提供快速开发出强大的web应用和接口
