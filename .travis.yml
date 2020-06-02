@@ -15,8 +15,8 @@ notifications:
 script:
   - gitbook -v
   - gitbook install
-  - 
   - gitbook build
+  - book sm
 
 after_script:
   - cd ./_book
